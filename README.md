@@ -22,10 +22,6 @@
 - Advanced C++, Python, Java
 - Malware analysis & exploit dev (next steps 👨‍💻)
 
-### 💬 Ask Me About:
-- C++
-- Virus creation (educational purposes only 🧠)
-- Sticking payloads in images/games
 
 ### 📫 Reach Me On:
 <p align="left">
@@ -53,11 +49,3 @@ I'm just 14 and already diving deep into cybersecurity and reverse engineering �
 </p>
 
 ---
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gyan-coder103&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=gyan-coder103&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
