@@ -15,11 +15,11 @@
 
 ### 🔭 Currently Working On:
 - Reverse Engineering 🔍
-- Building cool stuff with C++, Python, and Java
+- Building cool stuff with C++, Python, Java and C
 
 ### 🌱 Currently Learning:
 - **Assembly Language**
-- Advanced C++, Python, Java
+- Advanced C++, Python, Java, C
 - Malware analysis & exploit dev (next steps 👨‍💻)
 
 
